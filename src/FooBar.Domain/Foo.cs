@@ -8,6 +8,7 @@ namespace FooBar.Domain
         {
             Console.WriteLine("Blah");
             Console.WriteLine("Blah1");
+            Console.WriteLine("Blah2");
             return "Hello!"; 
         }
     }
